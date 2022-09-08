@@ -18,3 +18,8 @@ import scratchattach as scratch3
 
 session = scratch3.login("username", "password")
 ```
+
+/ shell:
+```
+pip install -U scratchattach
+```
