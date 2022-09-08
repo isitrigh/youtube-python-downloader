@@ -6,3 +6,6 @@ MacOS: https://github.com/isitrigh/youtube-python-downloader/blob/main/README.md
 <h1>MacOS</h1>
 In order to run python programs you will need python 3 installed. To install python 3 you need to open terminal. To do this open th spotlight (press command and space), or press the magnfying galss in the top right corner. Next, search 
 <code>sudo apt install python3 pip</code>
+```
+test
+```
