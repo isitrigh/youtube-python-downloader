@@ -1,2 +1,1 @@
-# youtube-python-downloader
-python youtube video downloader
+YT video downloader in python.
