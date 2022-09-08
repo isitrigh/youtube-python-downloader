@@ -5,21 +5,7 @@ Use these links to skip to your operating system.<br>
 MacOS: https://github.com/isitrigh/youtube-python-downloader/blob/main/README.md#macos
 <h1>MacOS</h1>
 In order to run python programs you will need python 3 installed. To install python 3 you need to open terminal. To do this open th spotlight (press command and space), or press the magnfying galss in the top right corner. Next, search 
-<code>sudo apt install python3 pip</code>
-```html
-test
-```
-```python
-test
-```
 
-```html
-import scratchattach as scratch3
-
-session = scratch3.login("username", "password")
 ```
-
-/ shell:
-```
-pip install -U scratchattach
+sudo apt install python3 pip
 ```
